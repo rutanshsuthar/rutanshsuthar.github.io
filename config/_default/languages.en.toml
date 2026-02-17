@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Rutansh S"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  description = "Software Engineer · MLOps · Cloud · Backend"
+
+[params.author]
+  name = "Rutansh Suthar"
+  email = "rsuth004@ucr.edu"
+  image = "img/profile.jpg"
+  headline = "Software Engineer | MS CS Grad @ UCR"
+  bio = "🔧 Builder · MLOps · Cloud Infra · Backend · Open Source"
+  links = [
+    { email = "mailto:rsuth004@ucr.edu" },
+    { linkedin = "https://linkedin.com/in/rutansh-suthar" },
+    { github = "https://github.com/RutanshS" },
+    { github = "https://github.com/rutanshsuthar" },
+  ]

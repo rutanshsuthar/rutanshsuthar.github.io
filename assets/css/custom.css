@@ -1,0 +1,5 @@
+/* Ring around profile photo on homepage */
+article > header > img.rounded-full {
+  border: 3px solid rgb(var(--color-primary-500));
+  padding: 3px;
+}
